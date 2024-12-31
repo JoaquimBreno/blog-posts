@@ -1,4 +1,3 @@
-
 ---
 title: "Mastering Tailwind CSS: Tips and Tricks for Modern Web Design"
 date: "2024-10-15"

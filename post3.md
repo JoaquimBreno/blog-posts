@@ -1,4 +1,3 @@
-
 ---
 title: "Exploring the Power of Next.js API Routes"
 date: "2024-11-01"
