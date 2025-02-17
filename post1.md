@@ -5,7 +5,7 @@ excerpt: "A look at our sleek and efficient new blogging system built with Next.
 category: "Web Development"
 tags: ["Next.js", "Tailwind CSS", "Blogging", "GitHub"]
 coverImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp"
-author: "Jeffrey Emanuel"
+author: "Joaquim Breno"
 authorImage: "https://avatars.githubusercontent.com/u/62159887?v=4"
 authorBio: "Software Engineer "
 ---
