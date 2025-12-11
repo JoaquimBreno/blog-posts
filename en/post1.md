@@ -4,7 +4,6 @@ date: "2025-02-17"
 excerpt: "A look at our sleek and efficient new blogging system built with Next.js and Tailwind CSS, designed for fast, responsive, and visually appealing content delivery."
 category: "Web Development"
 tags: ["Next.js", "Tailwind CSS", "Blogging", "GitHub"]
-coverImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp"
 author: "Joaquim Breno"
 authorImage: "https://avatars.githubusercontent.com/u/62159887?v=4"
 authorBio: "Software Engineer "
@@ -12,8 +11,6 @@ authorBio: "Software Engineer "
 # Introducing Our New Next.js Blogging System with Tailwind CSS
 
 ## A Sleek and Efficient Way to Share Your Thoughts
-
-![Blog System Banner](https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp)
 
 Hello, fellow developers and tech enthusiasts! Today, I'm excited to introduce our brand new blogging system built with Next.js and styled with Tailwind CSS. This powerful combination allows for a fast, responsive, and visually appealing blog that's easy to maintain and expand.
 
